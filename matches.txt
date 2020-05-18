@@ -1,0 +1,7 @@
+Match: disponibles\n
+Match: disponibles\nEste es el sitio padre www.forums.hscripts.com\n
+Match: disponibles\nEste es el sitio padre www.forums.hscripts.com\nhscripts incluye tutoriales e mágenes gratuitos\n
+Match: disponibles\nEste es el sitio padre www.forums.hscripts.com\nhscripts incluye tutoriales e mágenes gratuitos\nCompre scripts con nosotros\n
+Match: forums.hscripts.com\n
+Match: forums.hscripts.com\nhscripts incluye tutoriales e mágenes gratuitos\n
+Match: forums.hscripts.com\nhscripts incluye tutoriales e mágenes gratuitos\nCompre scripts con nosotros\n

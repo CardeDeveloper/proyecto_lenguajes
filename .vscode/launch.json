@@ -1,0 +1,45 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - M4",
+            "request": "launch",
+            "mainClass": "M4",
+            "projectName": "ProyectoLeguajesFormales_8387148"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - M5",
+            "request": "launch",
+            "mainClass": "M5",
+            "projectName": "ProyectoLeguajesFormales_8387148"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - M3",
+            "request": "launch",
+            "mainClass": "M3",
+            "projectName": "ProyectoLeguajesFormales_8387148"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - M2",
+            "request": "launch",
+            "mainClass": "M2",
+            "projectName": "ProyectoLeguajesFormales_8387148"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - M1",
+            "request": "launch",
+            "mainClass": "M1",
+            "projectName": "ProyectoLeguajesFormales_8387148"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main"
+        }
+    ]
+}
